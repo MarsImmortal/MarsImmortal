@@ -37,6 +37,7 @@ Code ninja with a knack for debugging, I'm here to byte off more than I can chew
 </picture>
 
 **SKILLS**
+
 👨‍💻 Programming languages: C++, Javascript, C#, Python, HDL.
 🌐 Web technologies: Flask, HTML, CSS, Javascript, Node.js, Express.js, Bootstrap, AJAX, RESTful APIs, MongoDB, and HiveMQ(MQTT).
 💾 Databases: SQL(Oracle MYSQL), Mongo DB (integrated with Node.js).
@@ -47,4 +48,5 @@ Code ninja with a knack for debugging, I'm here to byte off more than I can chew
 By showcasing my problem-solving abilities, I aim to demonstrate my competence in designing efficient algorithms, solving complex challenges, and applying critical thinking to develop innovative solutions across different programming languages and hardware platforms. 💡🚀
 
 🔥 Top Languages: 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsImmortal&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
