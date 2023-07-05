@@ -11,10 +11,15 @@ SAKSHAM BEHAL
 Code ninja with a knack for debugging, I'm here to byte off more than I can chew and turn bugs into features! 🐞💻
 
 **About Me:**
--🎓 Bachelor of Engineering (Honours) in Software Engineering student at Deakin University /n
+
+-🎓 Bachelor of Engineering (Honours) in Software Engineering student at Deakin University
+
 -🏫 Schooling from SJHS (St. John's High School), Sector 26 Chandigarh
+
 -💻 Passionate about software development, web technologies, and solving real-world problems
+
 -🌱 Constantly learning and exploring new technologies to enhance my skills
+
 -🤝 Open to collaborations and project opportunities
 
 📊 GitHub Stats:
