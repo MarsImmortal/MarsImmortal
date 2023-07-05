@@ -1,7 +1,10 @@
 Hi there! 👋
 
 I am Saksham, a student 👨‍🎓 and passionate software developer enthusiast 😄. I'm always hungry 🤤 for knowledge 📚 and love exploring new programming languages 👨‍💻. Currently, I'm fluent in the languages of C++ (DSA, Procedural), C# (OOPS), Javascript and its frameworks (node, express), Python, and even the languages of microcontrollers like Raspberry Pi, Arduino Nano 33 IoT, Uno, and ESP32 🤖. Check out all the exciting projects I've worked on or currently working on in the text below or in my repos 🎒.
-**Check out my Linkedin :** https://www.linkedin.com/feed/
+
+💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/saksham-behal-003bb627a/)
+
+Feel free to explore my GitHub stats and top languages to get a better understanding of my contributions and skills. You can also connect with me on LinkedIn for professional networking.
 
 SAKSHAM BEHAL
 
@@ -13,6 +16,8 @@ Code ninja with a knack for debugging, I'm here to byte off more than I can chew
 💻 Passionate about software development, web technologies, and solving real-world problems
 🌱 Constantly learning and exploring new technologies to enhance my skills
 🤝 Open to collaborations and project opportunities
+
+📊 GitHub Stats:
 
 <picture>
   <source
@@ -36,4 +41,5 @@ Code ninja with a knack for debugging, I'm here to byte off more than I can chew
 
 By showcasing my problem-solving abilities, I aim to demonstrate my competence in designing efficient algorithms, solving complex challenges, and applying critical thinking to develop innovative solutions across different programming languages and hardware platforms. 💡🚀
 
+🔥 Top Languages: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsImmortal&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
