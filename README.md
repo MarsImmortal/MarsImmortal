@@ -16,14 +16,14 @@ Code ninja with a knack for debugging, I'm here to byte off more than I can chew
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Saksham Behal&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=SakshamBehal&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Saksham Behal&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=SakshamBehal&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Saksham Behal&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SakshamBehal&show_icons=true" />
 </picture>
 
 **SKILLS**
