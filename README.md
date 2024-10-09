@@ -50,3 +50,8 @@ By showcasing my problem-solving abilities, I aim to demonstrate my competence i
 🔥 Top Languages: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsImmortal&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+Other Profiles: 
+[Saksham Behal exe](https://github.com/SakshamBehalexe)
+[mars165immortal](https://github.com/mars165immortal)
+
